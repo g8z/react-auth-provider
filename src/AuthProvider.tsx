@@ -6,6 +6,7 @@ export type AuthProviderProps = {
   defaultAuthenticated?: boolean;
   onLogin?: () => void;
   onLogout?: () => void;
+  children: React.ReactNode;
 };
 
 export const AuthProvider: React.FC<AuthProviderProps> = ({
