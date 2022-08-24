@@ -1,7 +1,7 @@
 {
   "name": "@ryanar/react-auth-provider",
   "version": "0.3.3",
-  "repository": "https://github.com/audiolion/react-auth-provider",
+  "repository": "https://github.com/g8z/react-auth-provider",
   "author": "Ryan Castner <castner.rr@gmail.com>",
   "license": "MIT",
   "main": "dist/index.js",
